@@ -1,0 +1,12 @@
+
+what is url ?
+ url stands for universal resource locator
+ url is basics provides descriptions for any website
+
+ examples : https://www.tops-int.com/
+
+ types of url ?
+ a)absolute url 
+   https://www.tops-int.com/
+ b)relative url 
+   https://www.tops-int.com/it-training-rajkot

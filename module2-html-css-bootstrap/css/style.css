@@ -1,0 +1,13 @@
+body
+        {
+            background-color: rgb(173, 157, 188);
+        }
+        div
+        {
+            width: 50%;
+            height: auto;
+            margin: auto;
+            background-color: bisque ;
+            margin-top: 8%;
+            padding: 30px;
+        }

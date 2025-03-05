@@ -1,0 +1,19 @@
+what is php ?
+  php stands for php:hypertext preprocessor language
+  php first time release in 1994 by rasmus landroef 
+  php is a server side scripting language 
+  php support all OS
+  examples : windows | android | ubuntu | ios 
+  php support all database 
+  examples : mysql | sql server | sqllite | mongodb | oracle
+  php is also support all server 
+  examples : apache | tomcat | filezilla
+  php is saved with .php extensions 
+  php is most popular server side language 
+  php is most used for website developments
+
+  examples :
+<?php 
+$name="my name is Krish";
+echo $name;
+?>  
